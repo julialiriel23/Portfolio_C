@@ -1,7 +1,7 @@
 # Portfolio_C
 # Projeto em C - Minhas Aprendizagens
 
-Este repositório contém meu projeto em linguagem C, desenvolvido como parte das atividades da disciplina de [nome da disciplina, se quiser colocar].
+Este repositório contém meu projeto em linguagem C, desenvolvido como parte das atividades da disciplina de Lógica de Programação
 
 ## 📚 Objetivos do Projeto
 
